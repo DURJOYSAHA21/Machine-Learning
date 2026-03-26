@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from mlxtend.plotting import plot_decision_regions
 
-df =pd.read_csv("G:\Files which are needed\Python\Machine Learning\placement.csv")
+df =pd.read_csv("G:\Files which are needed\Python\Machine Learning\place.csv")
 print(df.head())
 
 print(df.shape)
